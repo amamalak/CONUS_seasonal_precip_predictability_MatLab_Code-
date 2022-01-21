@@ -1,4 +1,5 @@
 The file "USWprecip_prediction_COBEv2.m" is the main code script for the study by Mamalakis et al. (2022).
+This code is written in MatLab.
 
 Citation:
 
