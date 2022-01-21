@@ -4,11 +4,11 @@ close all
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-% This is the code script for the study published in Mamalakis et al. (2022). 
+% This is a MatLab code script for the study published in Mamalakis et al. (2022). 
 % The exact data sources used for the study are free online and urls are provided.
 % However, if you want to use different data (or updated versions of it), 
 % you may need to modify certain parts of the script accordingly. 
-% Please make sure you cite this study in case of using this code or the 
+% Please make sure you cite this study if you use parts of this code or the 
 % methodology that is based on. 
 % Questions might be addressed to: amamalak@rams.colostate.edu
 %
